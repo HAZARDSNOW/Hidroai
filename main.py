@@ -5,10 +5,7 @@ import re
 import os
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')  # خواندن توکن از متغیر محیطی
-
-if not TOKEN:
-    raise ValueError("لطفاً توکن ربات را به عنوان متغیر محیطی تنظیم کنید.")
+TOKEN = "7573166092:AAFHN99hMgiuxWLEsuyQt5FQx7qRQNo1ywg"
 
 # نام هوش مصنوعی
 AI_NAME = "Hidro AI"
