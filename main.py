@@ -5,7 +5,7 @@ import re
 import os
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-BOT_TOKEN = "7573166092:AAFHN99hMgiuxWLEsuyQt5FQx7qRQNo1ywa"
+BOT_TOKEN = ""
 
 # نام هوش مصنوعی
 AI_NAME = "Hidro AI"
