@@ -1,4 +1,4 @@
-name = "your-worker-name"
+name = "hidro"
 main = "main.py"
 compatibility_date = "2025-03-15" #or current date.
 compatibility_flags = ["python_workers"]
