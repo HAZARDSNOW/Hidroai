@@ -1,0 +1,4 @@
+name = "your-worker-name"
+type = "python"
+main = "main.py" # Replace "your_script.py" with your actual filename
+compatibility_date = "2025-03-15" #or current date.
